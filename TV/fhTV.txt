@@ -1,0 +1,3 @@
+凤凰卫视蓝光,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
+凤凰资讯蓝光,http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+凤凰香港蓝光,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
