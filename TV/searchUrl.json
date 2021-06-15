@@ -1,22 +1,6 @@
 {
   "data": [
     {
-    "id": 1,
-    "name": "4K姨妈",
-    "url": "http://4k.4kyima.com/api.php/provide/vod/at/xml",
-    "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&动画电影,30&&国产剧,13&&港台剧,14韩日剧,15&&美国剧,16",
-    "click": true,
-    "wePlus": {}
-    },
-    {
-    "id": 1,
-    "name": "5K姨妈",
-    "url": "https://4k.4kyima.com/api.php/provide/art/at/xml/?ac=list",
-    "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&动画电影,30&&国产剧,13&&港台剧,14韩日剧,15&&美国剧,16",
-    "click": true,
-    "wePlus": {}
-    },
-    {
       "id": 1,
       "name": "百度云",
       "url": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml",
@@ -74,6 +58,6 @@
       "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,12&&韩国剧,14&&美国剧,15综艺,3&&国产动漫,22&&日本动漫,21&&欧美动漫,23",
       "click": true,
       "wePlus": {}
-     }
+    }
   ]
 }
