@@ -1,7 +1,8 @@
+
 {
   "data": [
 {
-      "name": "一只鱼(规则)",
+      "name": "一只鱼",
       "pic": "https://poco.4kyu.cc/qiangjunqhe/211208.png",
       "type": "webPlug",
       "subTitle": "",
@@ -12,8 +13,8 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.4kyu.cc/vodsearch/-------------.html?wd={kw}&submit=",
-        "nav_url": "https://www.4kyu.cc/vodshow/navCate-----------.html",
-        "cate_url": "https://www.4kyu.cc/vodshow/navCate-----------.html",
+        "nav_url": "https://www.4kyu.cc/vodshow/navCate--------navPage---.html",
+        "cate_url": "https://www.4kyu.cc/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
         "web_name": "一只鱼",
         "kw": "wd",
         "params": [
@@ -987,6 +988,18 @@
           "video": {}
         }
       }
+    },
+    {
+      "name": "奈非(Web)",
+      "pic": "https://nfxhd.com/template/mytheme/statics/image/20210503/0976c4325.png",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+
+      "ads": "",
+      "webUrl": "https://nfxhd.com/",
+      "webOpen": true,
+      "click": true
     },
     {
       "name": "百度搜索(Web)",
